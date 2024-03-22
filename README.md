@@ -1,2 +1,3 @@
 # tugas2PemrogramanIntegrative
-Assignment II
+Nama  : Muhamamd Gilang Akbar
+NIM   : 211402140
